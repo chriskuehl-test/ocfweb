@@ -15,7 +15,7 @@ linters:
         enabled: false
 
     # why does anyone think this is a good idea?
-    PropertySortOrder:
+    PropertySortOrder:asdf.,nasfkljbasdfkljbasdflkjasdf
         enabled: false
 
     Indentation:
