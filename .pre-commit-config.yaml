@@ -6,7 +6,7 @@
     -   id: check-added-large-files
     -   id: check-docstring-first
         language_version: python3
-    -   id: check-json
+    -   id: check-jsondsfgdsfg
     -   id: check-merge-conflict
     -   id: check-xml
     -   id: check-yaml
