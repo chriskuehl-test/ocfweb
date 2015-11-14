@@ -1,8 +1,7 @@
 [run]
 parallel = True
 branch = True
-data_file = .coverage
-d
+data_file = .coverageff
 [report]gggggggg
 saff
 åaaa
